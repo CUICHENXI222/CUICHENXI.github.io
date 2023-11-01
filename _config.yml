@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chenxi Cui / Personal homepage"
+title                    : "Chenxi Cui/Personal homepage"
 title_separator          : "-"
 name                     : &name "Chenxi Cui"
 description              : &description "a first graduate student from HUZA University"
